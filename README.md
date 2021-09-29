@@ -4,7 +4,7 @@
 </p>
 
 <p align='center'>
-<a href="https://discord.gg/hKUY5c5NWE"><img width="50%" height="auto" src="https://discordapp.com/api/guilds/892721767116857374/widget.png?style=banner2" height="175px"/></a>
+<a href="https://discord.gg/hKUY5c5NWE"><img width="50%" height="auto" src="https://discordapp.com/api/guilds/789443193989103648/widget.png?style=banner2" height="175px"/></a>
 </a>
 
 
